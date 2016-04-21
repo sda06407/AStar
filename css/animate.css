@@ -4,9 +4,21 @@ canvas {
     display: block;
     width: 1100px;
     height: 600px;
-    position: absolute;
+    //position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
+}
+
+.test{
+      position: absolute;
+      padding: 0;
+      margin: auto;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      width:1100px;
+      height:600px;
 }
